@@ -13,10 +13,10 @@ AZ Direct and Arvato Financial Solutions have provided two datasets one with dem
 
 - The files available for the project are:
 
-1. Udacity_AZDIAS_Subset.csv: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
-2. Udacity_CUSTOMERS_Subset.csv: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
-3. Data_Dictionary.md: Information file about the features in the provided datasets.
-4. AZDIAS_Feature_Summary.csv: Summary of feature attributes for demographic data.
+1. `Udacity_AZDIAS_Subset.csv`: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+2. `Udacity_CUSTOMERS_Subset.csv`: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+3. `Data_Dictionary.md`: Information file about the features in the provided datasets.
+4. `AZDIAS_Feature_Summary.csv`: Summary of feature attributes for demographic data.
 
 based on the Terms & Conditions of Udacity I can' t download and reuse the data.
 
